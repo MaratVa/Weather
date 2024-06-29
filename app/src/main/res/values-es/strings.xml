@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acabado</string>
+    <string name="change_city">Cambiar ciudad</string>
+    <string name="refresh">Actualizar</string>
+    <string name="data_not_found">Lo sentimos, no se encontraron datos meteorológicos.</string>
+    <string name="go">Ve</string>
+    <string name="details_field">%1$s[…]
+        \nHumedad: %2$s
+        \nPresión: %3$s hPa</string>
+    <string name="updated_field">Última actualización: %1$s</string>
+    <string name="use_current_location">Usar mi ubicación actual</string>
+    <string name="weather_icon">Imagen del tiempo actual</string>
+    <string name="permission_required">Se requiere permiso para recuperar el clima de su ubicación.</string>
+    <string name="language">Idioma</string>
+</resources>
